@@ -1,0 +1,19 @@
+---
+title: "D3 and Big Data"
+author: "Yujia Jin"
+date: "2022/4/6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](dshade.png)
+
+This plot above shows the electric power consumption, Global_active_power, in one household taken every minute for almost 4 years. 
+
+
+![](assignment-2.png)
+
+This plot above shows the total daily electric consumption in one household for almost 4 years. 
